@@ -1,37 +1,173 @@
-## Welcome to GitHub Pages
+# 金融许可证机构编码编制规则
+&emsp;&emsp;为配合《金融许可证管理办法》的实施，制定本规定。
+## 一、机构编码结构
+&emsp;&emsp;机构编码由大写英文字母和数字组成，共 15 位。分六个部分，分别
+是机构类型代码、机构代码、组织类别代码、发证机关代码、地址代码、
+顺序代码，从左至右顺序排列，如下表所示。
+机构编码结构示意表
 
-You can use the [editor on GitHub](https://github.com/andyshao2020/shellshellfish/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![机构编码结构示意表](金融许可证机构编码编制规则_files/1.jpg)
+## 二、机构编码含义
+### 〈一〉第[一]位是机构类型代码，用大写英文字母表示。
+|编码|名称|
+|--	|--	|
+|A|政策性银行	|
+|B|商业银行	|
+|C|农村合作银行|
+|D|城市信用社	|
+|E|农村信用社	|
+|F|资金互助社	|
+|J|金融资产管理公司	|
+|K|信托公司	|
+|L|财务公司	|
+|M|金融租赁公司|
+|N|汽车金融公司|
+|P|货币经纪公司|
+|Q|贷款公司	|
+|Z|其他类金融机构|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&emsp;&emsp;新增机构类型时，根据需要确定机构类型代码。
+### (二)第[二]位至第[五]位是机构代码，用数字表示。
+#### 1.每个法人机构指定唯一的代码，由计算机系统按照规则自动生成.
+&emsp;&emsp;除农村信用社、资金互助社、贷款公司 (E 、F、Q 类机构)外，全国统一编码。 E、F、Q 类机构在省(自治区、直辖市)范围内统一编码。
+#### 2.新设立的机构依照所属机构类型顺序排列.
+&emsp;&emsp;机构代码编码示例如下:
+A一政策性银行
+0001 一国家开发银行
+B一商业银行
+0001 一中国工商银行股份有限公司
+C一农村合作银行
+0001 一天津大港农村合作银行
+### 〈三)第[六]位是组织类别代码，用大写英文字母表示。
+&emsp;&emsp;机构类型不同，组织类别代码的含义不同。定义如下:
+#### 1.A、政策性银行
+|编码|名称|
+|--	|--	|
+|AH|总行|
+|AG|总行营业部|
+|AB|一级分行|
+|AK|一级分行营业部|
+|AM|二级分行|
+|AS|支行|
+|AX|其他分支机构|
 
-### Markdown
+#### 2.B、商业银行
+|编码|名称|
+|--	|--	|
+|BH|总行|
+|BG|总行营业部、专营机构|
+|BB|一级分行|
+|BK|一级分行营业部|
+|BL|二级分行|
+|BM|直属支行|
+|BN|二级分行营业部|
+|BS|支行|
+|BU|分理处、办事处、营业所|
+|BV|储蓄所|
+|BX|其他分支机构|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 3.C、农村合作银行
+|编码|名称|
+|--	|--	|
+|CH|总行|
+|CS|支行|
+|CU|分理处|
+|CV|储蓄所|
+|CX|其他分支机构|
 
-```markdown
-Syntax highlighted code block
+#### 4.D、城市信用社
+|编码|名称|
+|--	|--	|
+|DH|法人|
+|DS|分社、营业部|
+|DX|其他分支机构|
 
-# Header 1
-## Header 2
-### Header 3
+#### 5.E、农村信用社
+|编码|名称|
+|--	|--	|
+|EH|省(自治区、直辖市)联合社|
+|EB|地(市)联合社、联社|
+|ES|县(市)联合社、联社、合作社(县级)|
+|ET|信用合作社|
+|EU|信用社、分社|
+|EV|储蓄所|
+|EX|其他分支机构|
 
-- Bulleted
-- List
+#### 6.F、资金互助社
+|编码|名称|
+|--	|--	|
+|FH|法人|
 
-1. Numbered
-2. List
+#### 7.J、金融资产管理公司
+|编码|名称|
+|--	|--	|
+|JH|总公司|
+|JB|办事处|
+|JX|其他分支机构|
 
-**Bold** and _Italic_ and `Code` text
+#### 8.K、信托公司
+|编码|名称|
+|--	|--	|
+|KH|法人|
 
-[Link](url) and ![Image](src)
-```
+#### 9.N、汽车金融公司
+|编码|名称|
+|--	|--	|
+|NH|法人|
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 10.L、财务公司
+|编码|名称|
+|--	|--	|
+|LH|总公司|
+|LB|分公司|
+|LX|其他分支机构|
 
-### Jekyll Themes
+#### 11.M 、金融租赁公司
+|编码|名称|
+|--	|--	|
+|MH|总公司|
+|MB|分公司|
+|MX|其他分支机构|
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyshao2020/shellshellfish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 12.P、货币经纪公司
+|编码|名称|
+|--	|--	|
+|PH|总公司|
+|PB|分公司|
+|PX|其他分支机构|
 
-### Support or Contact
+#### 13.Q、贷款公司
+|编码|名称|
+|--	|--	|
+|QH|总公司|
+|QB|分公司|
+|QX|其他分支机构|
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 14.Z、其他类金融机构
+&emsp;&emsp;Z 类机构组织类别代码编码方法参照以上规则。
+新增机构类型时，参照以上规则，根据实际情况定义其组织类别代码。
+
+### 〈四〉第[七]位是发证机关代码，用数字表示。
+|编号|名称|
+|--	|--	|
+|1|银监会|
+|2|银监局|
+|3|银监分局|
+
+### 〈五〉第[八]位至第[十一]是地址代码，用数字表示。
+&emsp;&emsp;按照[《中华人民共和国行政区划代码}} (GB/T 2260 )](http://www.mca.gov.cn/article/sj/xzqh/2020/2020/202003061536.html)，
+取市(地区、自治州、盟)、直辖市行政区划代码前四位，作为地址代码。
+地址代码示例如下:
+1100 表示北京市， 1200 表示天津市， 1301 表示石家庄市， .<br />
+[市级以上行政区划代码表前四位](http://127.0.0.1:8848/dcloudmdpaser?filename=%2FUsers%2Fandyshao%2F0_贝贝鱼PDCA%2F贝贝鱼数据库%2F2020年1月市以上行政区划代码.md&theme=atomonedark.css&projectname=贝贝鱼数据库&repath=&charset=UTF-8)
+### 〈六〉第[十二]位至第[十五]位是顺序代码，用数字表示。
+&emsp;&emsp;机构类型代码、机构代码、组织类别代码、发证机关代码和地址代码
+相同的机构按照制发金融许可证的顺序编码。
+## 三、机构编码的编制规则
+&emsp;&emsp;编制机构编码时，按照从左至右的顺序依次确定机构类型代码、机构
+代码、组织类别代码、发证机关代码、地址代码、 )1!9i 序代码，由计算机自
+动生成。
+为了保证机构编码的唯一性，以利于电子计算机较长时间地存储数
+据，因行政许可变更需换发金融许可证，涉及机构编码变更的，原机构编
+码不再使用。金融机构终止的，机构编码不再使用。注销开业许可收回金
+融许可证的，机构编码不再使用。
